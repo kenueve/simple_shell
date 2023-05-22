@@ -34,7 +34,6 @@ int is_delim(char s, char *dlm)
  *Return: if character is alphab = 1
   other = 0
  */
-
 int _isalpha(int s)
 {
 	if ((s >= 'a' && s <= 'z') || (s >= 'A' && s <= 'Z'))
@@ -49,7 +48,6 @@ int _isalpha(int s)
  *Return: if there's no string return 0
   if other convert num
  */
-
 int _atoi(char *s)
 {
 	int n, flsh = 1, flg = 0, utp;
