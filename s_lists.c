@@ -146,6 +146,7 @@ int delete_node_at_index(list_t **hed, unsigned int index)
  *
  * Return: null
  */
+
 void free_list(list_t **head_ptr)
 {
 	list_t *ndee, *next_node, *hed;
