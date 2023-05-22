@@ -66,6 +66,7 @@ char *starts_with(const char *hstck, const char *ndl)
  *
  * Return: ptr to destination buf.
  */
+
 char *_strcat(char *destination, char *source)
 {
 	char *ret = destination;
