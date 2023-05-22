@@ -152,6 +152,7 @@ int replace_vars(info_t *inff)
  * Return: if it is replaced return 1,
  * if other 0
  */
+
 int replace_string(char **old, char *new)
 {
 	free(*old);
