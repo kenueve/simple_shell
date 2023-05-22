@@ -51,11 +51,11 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 
 Example of error with sh:
 
-<code>
-$ echo "qwerty" | /bin/sh
-/bin/sh: 1: qwerty: not found
-$ echo "qwerty" | /bin/../bin/sh
-/bin/../bin/sh: 1: qwerty: not found
-$
-</code>
+
+	$ echo "qwerty" | /bin/sh
+	/bin/sh: 1: qwerty: not found
+	$ echo "qwerty" | /bin/../bin/sh
+	/bin/../bin/sh: 1: qwerty: not found
+	$
+
 
