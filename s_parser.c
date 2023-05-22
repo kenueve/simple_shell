@@ -53,6 +53,7 @@ char *dup_chars(char *strpth, int strt, int stp)
  * Return: command path if it is found
  *  or void
  */
+
 char *find_path(info_t *inff, char *strpth, char *cmnd)
 {
 	int l = 0, curr_pos = 0;
