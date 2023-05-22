@@ -71,6 +71,7 @@ void _puts(char *string)
  *  -1 if error occurs
  *  errno is set appropriately.
  */
+
 int _putchar(char c)
 {
 	static int l;
