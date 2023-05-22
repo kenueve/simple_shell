@@ -9,7 +9,6 @@
  * array of strings,
  *  in case of failure return void
  */
-
 char **strtow(char *strg, char *deli)
 {
 	int l, h, f, n, numofwords = 0;
