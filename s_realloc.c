@@ -42,6 +42,7 @@ void ffree(char **ps)
  * Return: pointer to the reallocated
  *  block of memory.
  */
+
 void *_realloc(void *pointer, unsigned int o_size, unsigned int n_size)
 {
 	char *p;
