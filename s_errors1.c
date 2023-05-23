@@ -130,7 +130,6 @@ char *convert_number(long int numb, int bs, int flg)
  *
  * Return: 0
  */
-
 void remove_comments(char *buf)
 {
 	int a;
