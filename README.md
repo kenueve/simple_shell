@@ -84,7 +84,7 @@ Same error with your program hsh:
 - kill (man 2 kill)
 - malloc (man 3 malloc)
 - open (man 2 open)
-- opendir (man 3 opendir)
+- ```opendir``` (man 3 opendir)
 - ```perror``` (man 3 perror)
 - ```read``` (man 2 read)
 - ```readdir``` (man 3 readdir)
