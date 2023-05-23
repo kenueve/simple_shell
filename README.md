@@ -82,7 +82,7 @@ Same error with your program hsh:
 - getpid (man 2 getpid)
 - isatty (man 3 isatty)
 - kill (man 2 kill)
-- malloc (man 3 malloc)
+- ```malloc``` (man 3 malloc)
 - ```open``` (man 2 open)
 - ```opendir``` (man 3 opendir)
 - ```perror``` (man 3 perror)
