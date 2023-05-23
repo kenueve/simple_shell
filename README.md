@@ -87,7 +87,7 @@ Same error with your program hsh:
 - opendir (man 3 opendir)
 - perror (man 3 perror)
 - read (man 2 read)
-- readdir (man 3 readdir)
+- ```readdir``` (man 3 readdir)
 - ```signal``` (man 2 signal)
 - ```stat``` (__xstat) (man 2 stat)
 - ```lstat``` (__lxstat) (man 2 lstat)
