@@ -77,7 +77,7 @@ Same error with your program hsh:
 - fflush (man 3 fflush)
 - fork (man 2 fork)
 - free (man 3 free)
-- getcwd (man 3 getcwd)
+- ```getcwd``` (man 3 getcwd)
 - ```getline``` (man 3 getline)
 - ```getpid``` (man 2 getpid)
 - ```isatty``` (man 3 isatty)
