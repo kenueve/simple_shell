@@ -73,7 +73,6 @@ int _putfd(char charr, int fileds)
  *  character will be written.
  * Return: number of chars.
  */
-
 int _putsfd(char *string, int fileds)
 {
 	int v = 0;
