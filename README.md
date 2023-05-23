@@ -75,7 +75,7 @@ Same error with your program hsh:
 - exit (man 3 exit)
 - _exit (man 2 _exit)
 - fflush (man 3 fflush)
-- fork (man 2 fork)
+- ```fork``` (man 2 fork)
 - ```free``` (man 3 free)
 - ```getcwd``` (man 3 getcwd)
 - ```getline``` (man 3 getline)
