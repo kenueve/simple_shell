@@ -93,7 +93,7 @@ Same error with your program hsh:
 - lstat (__lxstat) (man 2 lstat)
 - fstat (__fxstat) (man 2 fstat)
 - strtok (man 3 strtok)
-- wait (man 2 wait)
+- ```wait``` (man 2 wait)
 - ```waitpid``` (man 2 waitpid)
 - ```wait3``` (man 2 wait3)
 - ```wait4``` (man 2 wait4)
