@@ -47,7 +47,7 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 ## Output
 
 - Unless specified otherwise, your program must have the exact same output as sh (/bin/sh) as well as the exact same error output.
-- The only difference is when you print an error, the name of the program must be equivalent to your argv[0] (See below)
+- The only difference is when you print an error, the name of the program must be equivalent to your argv
 
 Example of error with sh:
 
@@ -67,3 +67,7 @@ Same error with your program hsh:
 	$
 	
 	
+# Compilation
+Your shell will be compiled this way:
+
+	gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o hsh
