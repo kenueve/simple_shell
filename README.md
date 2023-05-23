@@ -1,6 +1,6 @@
 # ALX Simple Shell Team Project
 ---
-Project peers : ABDELKARIM TARZOUTI, EL KAHLA KARIM
+Project peers : **KARIM TARZOUTI**, **EL KAHLA KARIM**
 
 ## Learning Objectives:
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
